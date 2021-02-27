@@ -5,14 +5,14 @@ namespace Daily_Report
     {
         static void Main()
         {
-            //Intro
+           
             Console.WriteLine("The Tech Academy");
             Console.WriteLine("Student Daily Report");
             Console.WriteLine("Press [Enter] to start");
             Console.ReadLine();
 
             //First question
-            Console.WriteLine("What course are you on?");
+            Console.WriteLine("What course are you in?");
             string currentCourse = Console.ReadLine();
 
             //Second question
@@ -35,7 +35,7 @@ namespace Daily_Report
             byte hrsStudied = Convert.ToByte(hoursStudied);
 
             //Sixth question
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+            Console.WriteLine("Thank you for your answers. An Instructor will respond shortly. Have a great day!");
             Console.WriteLine("Press [Enter] to display your results.");
             Console.ReadLine();
 
