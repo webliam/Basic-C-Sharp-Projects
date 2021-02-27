@@ -23,7 +23,7 @@ namespace BooleanWhile
                         break;
 
                     case "white":
-                        Console.WriteLine("oMmmmm. Boring! Try again.");
+                        Console.WriteLine("oMmmmm. thinking! Try again.");
                         color = Console.ReadLine();
                         break;
 
