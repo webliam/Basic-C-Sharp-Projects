@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\bin\Debug\Boolean comparison.exe.config
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\bin\Debug\Boolean comparison.exe
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\bin\Debug\Boolean comparison.pdb
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\obj\Debug\Boolean comparison.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\obj\Debug\Boolean comparison.exe
+C:\Users\mana\source\repos\Boolean comparison\Boolean comparison\obj\Debug\Boolean comparison.pdb

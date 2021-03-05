@@ -1,0 +1,13 @@
+C:\Users\mana\source\repos\Boolean\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\Boolean\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\mana\source\repos\Boolean\Boolean\bin\Debug\Boolean.exe
+C:\Users\mana\source\repos\Boolean\Boolean\bin\Debug\Boolean.pdb
+C:\Users\mana\source\repos\Boolean\Boolean\obj\Debug\Boolean.exe
+C:\Users\mana\source\repos\Boolean\Boolean\obj\Debug\Boolean.pdb
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\bin\Debug\Boolean.exe.config
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\bin\Debug\Boolean.exe
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\bin\Debug\Boolean.pdb
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\obj\Debug\Boolean.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\obj\Debug\Boolean.exe
+E:\University\c#\Basic_C#_Programs\Basic-C-Sharp-Projects\Boolean\Boolean\obj\Debug\Boolean.pdb

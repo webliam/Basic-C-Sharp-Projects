@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\mathapp\mathapp\bin\Debug\mathapp.exe.config
+C:\Users\mana\source\repos\mathapp\mathapp\bin\Debug\mathapp.exe
+C:\Users\mana\source\repos\mathapp\mathapp\bin\Debug\mathapp.pdb
+C:\Users\mana\source\repos\mathapp\mathapp\obj\Debug\mathapp.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\mathapp\mathapp\obj\Debug\mathapp.exe
+C:\Users\mana\source\repos\mathapp\mathapp\obj\Debug\mathapp.pdb

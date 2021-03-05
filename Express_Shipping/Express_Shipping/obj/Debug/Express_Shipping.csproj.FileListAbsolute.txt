@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\bin\Debug\Express_Shipping.exe.config
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\bin\Debug\Express_Shipping.exe
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\bin\Debug\Express_Shipping.pdb
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\obj\Debug\Express_Shipping.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\obj\Debug\Express_Shipping.exe
+C:\Users\mana\source\repos\Express_Shipping\Express_Shipping\obj\Debug\Express_Shipping.pdb

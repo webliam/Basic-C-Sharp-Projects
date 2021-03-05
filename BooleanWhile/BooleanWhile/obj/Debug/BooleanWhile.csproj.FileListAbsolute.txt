@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\bin\Debug\BooleanWhile.exe.config
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\bin\Debug\BooleanWhile.exe
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\bin\Debug\BooleanWhile.pdb
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\obj\Debug\BooleanWhile.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\obj\Debug\BooleanWhile.exe
+C:\Users\mana\source\repos\BooleanWhile\BooleanWhile\obj\Debug\BooleanWhile.pdb
