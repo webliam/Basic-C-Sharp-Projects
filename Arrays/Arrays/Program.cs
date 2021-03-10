@@ -40,6 +40,32 @@ namespace Arrays
             else
                 Console.WriteLine("I have " + nums[n] + " apples for you to make apple pie(s) with.");
             Console.ReadLine();
+                        
+            //List of Strings//
+
+            List<string> stringList = new List<string>();
+            stringList.Add("Red");
+            stringList.Add("Pink");
+            stringList.Add("Green");
+            stringList.Add("Blue");
+            stringList.Add("Gold");
+            stringList.Add("Silver");
+            stringList.Add("Gray");
+            stringList.Add("Navi Blue");
+
+            Console.WriteLine("Please select a number between 0 and 7");
+            int listIndex = Convert.ToInt32(Console.ReadLine());
+            if (listIndex <= 7)
+            {
+                Console.WriteLine(stringList[listIndex]);
+            }
+            else
+            {
+                Console.WriteLine("You must select a number between 0 and 7");
+            }
+
+            Console.ReadLine();
+
 
         }
     }
