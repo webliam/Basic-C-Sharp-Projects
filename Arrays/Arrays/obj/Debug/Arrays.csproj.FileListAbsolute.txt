@@ -1,0 +1,14 @@
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\University\c#\Basic_C#_Programs\Arrays\Arrays\obj\Debug\Arrays.pdb
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\University\c#\Basic_C#_Programs\webliam\Basic-C-Sharp-Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
