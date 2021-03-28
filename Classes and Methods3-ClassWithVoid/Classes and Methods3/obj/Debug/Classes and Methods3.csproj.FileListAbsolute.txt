@@ -1,0 +1,7 @@
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\bin\Debug\Classes and Methods3.exe.config
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\bin\Debug\Classes and Methods3.exe
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\bin\Debug\Classes and Methods3.pdb
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\obj\Debug\Classes and Methods3.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\obj\Debug\Classes and Methods3.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\obj\Debug\Classes and Methods3.exe
+E:\University\c#\Basic_C#_Programs\Classes and Methods3\Classes and Methods3\obj\Debug\Classes and Methods3.pdb
