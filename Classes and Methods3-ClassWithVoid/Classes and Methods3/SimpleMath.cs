@@ -11,9 +11,10 @@ namespace Classes_and_Methods3
         public void returnMultiple(int mathNum, int displayNum)
         {
             int mathAddition = mathNum + 10;
-
             Console.WriteLine(mathAddition);
             Console.WriteLine(displayNum);
+
         }
+
     }
-}
+   }
