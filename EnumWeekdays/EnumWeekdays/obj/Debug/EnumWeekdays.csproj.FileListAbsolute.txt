@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\bin\Debug\EnumWeekdays.exe.config
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\bin\Debug\EnumWeekdays.exe
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\bin\Debug\EnumWeekdays.pdb
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\obj\Debug\EnumWeekdays.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\obj\Debug\EnumWeekdays.exe
+C:\Users\mana\source\repos\EnumWeekdays\EnumWeekdays\obj\Debug\EnumWeekdays.pdb
