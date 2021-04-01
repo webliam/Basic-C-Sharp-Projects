@@ -1,0 +1,7 @@
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+E:\University\c#\Basic_C#_Programs\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
