@@ -1,0 +1,6 @@
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+E:\University\c#\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

@@ -1,0 +1,7 @@
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\obj\Debug\ClassWithThreeMethods.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\obj\Debug\ClassWithThreeMethods.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\bin\Debug\ClassWithThreeMethods.exe.config
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\bin\Debug\ClassWithThreeMethods.exe
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\bin\Debug\ClassWithThreeMethods.pdb
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\obj\Debug\ClassWithThreeMethods.exe
+E:\University\c#\Basic_C#_Programs\ClassWithThreeMethods\ClassWithThreeMethods\obj\Debug\ClassWithThreeMethods.pdb
