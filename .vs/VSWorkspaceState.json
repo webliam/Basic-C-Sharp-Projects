@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Arrays",
-    "\\Arrays\\Arrays"
+    "\\AccountingSystem\\AccountingSystem",
+    "\\Boolean comparison\\Boolean comparison",
+    "\\BooleanWhile\\BooleanWhile",
+    "\\Daily_Report\\Daily Report",
+    "\\Express_Shipping\\Express_Shipping",
+    "\\MathAndComparison\\MathAndComparison",
+    "\\MathAndComparison\\MathAndComparison\\Properties",
+    "\\mathapp\\mathapp",
+    "\\string\\string"
   ],
-  "SelectedNode": "\\Arrays\\Arrays\\Program.cs",
+  "SelectedNode": "\\AccountingSystem",
   "PreviewInSolutionExplorer": false
 }

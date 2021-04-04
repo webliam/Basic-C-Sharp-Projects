@@ -1,0 +1,6 @@
+C:\Users\mana\source\repos\string\string\bin\Debug\@string.exe.config
+C:\Users\mana\source\repos\string\string\bin\Debug\@string.exe
+C:\Users\mana\source\repos\string\string\bin\Debug\@string.pdb
+C:\Users\mana\source\repos\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\string\string\obj\Debug\@string.exe
+C:\Users\mana\source\repos\string\string\obj\Debug\@string.pdb
