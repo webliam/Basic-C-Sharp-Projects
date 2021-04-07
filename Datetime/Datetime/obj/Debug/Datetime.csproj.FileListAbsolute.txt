@@ -1,0 +1,7 @@
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\bin\Debug\Datetime.exe.config
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\bin\Debug\Datetime.exe
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\bin\Debug\Datetime.pdb
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\obj\Debug\Datetime.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\obj\Debug\Datetime.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\obj\Debug\Datetime.exe
+E:\University\c#\Basic_C#_Programs\Datetime\Datetime\obj\Debug\Datetime.pdb

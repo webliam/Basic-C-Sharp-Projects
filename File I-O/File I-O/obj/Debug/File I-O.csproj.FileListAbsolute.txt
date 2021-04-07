@@ -1,0 +1,2 @@
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.csprojAssemblyReference.cache
