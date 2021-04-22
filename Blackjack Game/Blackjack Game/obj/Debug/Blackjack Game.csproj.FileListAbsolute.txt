@@ -1,0 +1,2 @@
+E:\University\c#\Basic_C#_Programs\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\Blackjack Game\Blackjack Game\obj\Debug\Blackjack Game.csproj.CoreCompileInputs.cache
