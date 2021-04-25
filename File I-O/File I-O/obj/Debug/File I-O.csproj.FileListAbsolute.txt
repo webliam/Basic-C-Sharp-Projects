@@ -1,2 +1,7 @@
 E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.csproj.CoreCompileInputs.cache
 E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\bin\Debug\File I-O.exe.config
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\bin\Debug\File I-O.exe
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\bin\Debug\File I-O.pdb
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.exe
+E:\University\c#\Basic_C#_Programs\File I-O\File I-O\obj\Debug\File I-O.pdb

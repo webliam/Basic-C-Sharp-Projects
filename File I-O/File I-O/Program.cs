@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace File_I_O
 {
@@ -12,7 +13,7 @@ namespace File_I_O
         {
             Console.WriteLine("Hello! Please enter a number: ");
             string inputNum = Console.ReadLine();
-            string filePath = @"C:\Users\public\logs\numlog.txt";
+            string filePath = @"C:\Users\mana\logs\numlog.txt";
             string returnText;
             using (StreamWriter file = new StreamWriter(filePath, true))
             {
