@@ -1,0 +1,9 @@
+E:\University\c#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\bin\Debug\TwentyOne.exe.config
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\bin\Debug\TwentyOne.exe
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\bin\Debug\TwentyOne.pdb
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\obj\Debug\TwentyOne.exe
+E:\University\c#\Basic_C#_Programs\TwentyOne - Copy\TwentyOne\obj\Debug\TwentyOne.pdb
