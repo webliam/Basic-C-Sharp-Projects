@@ -8,7 +8,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{770476D5-4E75-4A35-A4BE-60AE8F7581DD}</ProjectGuid>
+    <ProjectGuid>{6AA5F482-63AA-4C69-AE43-7732F93C6176}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -18,7 +18,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44347</IISExpressSSLPort>
+    <IISExpressSSLPort>44306</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -128,48 +128,35 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="CarSignUp.cs" />
-    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InsureeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\CarInsurance.Context.cs">
+    <Compile Include="Models\InsuranceEntities.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>CarInsurance.Context.tt</DependentUpon>
+      <DependentUpon>InsuranceEntities.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\CarInsurance.cs">
+    <Compile Include="Models\InsuranceEntities.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>CarInsurance.tt</DependentUpon>
+      <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\CarInsurance.Designer.cs">
+    <Compile Include="Models\InsuranceEntities.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>CarInsurance.edmx</DependentUpon>
+      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Models\CredentialsVm.cs" />
-    <Compile Include="Models\Insuree.cs">
-      <DependentUpon>CarInsurance.tt</DependentUpon>
+    <Compile Include="Models\Insurees.cs">
+      <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="T4\Db.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Db.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="T4\Db.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Db.tt</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Insuree.mdf" />
-    <Content Include="App_Data\Insuree_log.ldf">
-      <DependentUpon>Insuree.mdf</DependentUpon>
+    <Content Include="App_Data\Insurance.mdf" />
+    <Content Include="App_Data\Insurance_log.ldf">
+      <DependentUpon>Insurance.mdf</DependentUpon>
     </Content>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -179,24 +166,24 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Models\CarInsurance.Context.tt">
+    <Content Include="Models\InsuranceEntities.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>CarInsurance.Context.cs</LastGenOutput>
-      <DependentUpon>CarInsurance.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntities.Context.cs</LastGenOutput>
+      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
     </Content>
-    <Content Include="Models\CarInsurance.tt">
+    <Content Include="Models\InsuranceEntities.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>CarInsurance.cs</LastGenOutput>
-      <DependentUpon>CarInsurance.edmx</DependentUpon>
+      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntities.cs</LastGenOutput>
     </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <EntityDeploy Include="Models\CarInsurance.edmx">
+    <EntityDeploy Include="Models\InsuranceEntities.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>CarInsurance.Designer.cs</LastGenOutput>
+      <LastGenOutput>InsuranceEntities.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <Content Include="Models\CarInsurance.edmx.diagram">
-      <DependentUpon>CarInsurance.edmx</DependentUpon>
+    <Content Include="Models\InsuranceEntities.edmx.diagram">
+      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -209,14 +196,6 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="T4\Db.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Db.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="T4\Db.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Db.cs</LastGenOutput>
-    </Content>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -236,11 +215,6 @@
     <Content Include="Views\Insuree\Details.cshtml" />
     <Content Include="Views\Insuree\Edit.cshtml" />
     <Content Include="Views\Insuree\Index.cshtml" />
-    <Content Include="Views\Admin\Create.cshtml" />
-    <Content Include="Views\Admin\Delete.cshtml" />
-    <Content Include="Views\Admin\Details.cshtml" />
-    <Content Include="Views\Admin\Edit.cshtml" />
-    <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -275,9 +249,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>61877</DevelopmentServerPort>
+          <DevelopmentServerPort>52265</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44347/</IISUrl>
+          <IISUrl>https://localhost:44306/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
