@@ -1,0 +1,16 @@
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csprojAssemblyReference.cache
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.InitialCreate.resources
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.GenerateResource.cache
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.AddUrl.resources
+E:\University\c#\Basic_C#_Programs\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.AddUser.resources

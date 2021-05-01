@@ -1,0 +1,12 @@
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramekworkCodeFirst.exe.config
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramekworkCodeFirst.exe
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramekworkCodeFirst.pdb
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\obj\Debug\EntityFramekworkCodeFirst.csprojAssemblyReference.cache
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\obj\Debug\EntityFramekworkCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\obj\Debug\EntityFramekworkCodeFirst.csproj.CopyComplete
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\obj\Debug\EntityFramekworkCodeFirst.exe
+C:\Users\mana\source\repos\EntityFramekworkCodeFirst\EntityFramekworkCodeFirst\obj\Debug\EntityFramekworkCodeFirst.pdb
